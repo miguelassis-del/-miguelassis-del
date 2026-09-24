@@ -3,7 +3,7 @@
 <h3 align="center">Estudante de Engenharia de Software | Dev Front-End em formação</h3>
 
 <p align="center">
-  Apaixonado por criar interfaces e resolver problemas com código. Construindo projetos para aprender e evoluir na prática 🚀
+  Em formação em Engenharia de Software. Pratico HTML5, CSS3 e JavaScript construindo projetos pequenos e funcionais para consolidar fundamentos 🚀
 </p>
 
 ---
