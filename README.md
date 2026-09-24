@@ -1,4 +1,4 @@
-# -miguelassis-del<h1 align="center">Olá, eu sou o Miguel Assis 👋</h1>
+<h1 align="center">Olá, eu sou o Miguel Assis 👋</h1>
 
 <h3 align="center">Estudante de Engenharia de Software | Dev Front-End em formação</h3>
 
@@ -31,17 +31,6 @@
 | [🧑‍💼 Sistema-Funcionario](https://github.com/miguelassis-del/Sistema-Funcionario) | Sistema de armazenamento de dados de funcionários |
 | [⚖️ Calculador-IMC](https://github.com/miguelassis-del/Calculador-IMC) | Calculadora de IMC funcional |
 | [💱 Conversor-De-Moedas](https://github.com/miguelassis-del/Conversor-De-Moedas) | Conversor de moedas com consumo de API |
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelassis-del&show_icons=true&theme=default" alt="Estatísticas do GitHub de Miguel Assis" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelassis-del" alt="Streak do GitHub de Miguel Assis" />
-</p>
 
 ---
 
